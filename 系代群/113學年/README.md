@@ -2,7 +2,7 @@
 
 ## 系學會共用資訊
 
-🏛️[資工系學會組織架構](https://hackmd.io/@5ood/SkFICUhqA)
+🏛️[資工系學會組織架構](系代群/113學年/系學會共用資訊/資工系學會組織架構.md)
 
 ⚒️[組織分工](https://hackmd.io/@5ood/BkCxbv250)
 

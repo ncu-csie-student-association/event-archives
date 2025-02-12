@@ -4,9 +4,9 @@
 
 🏛️[資工系學會組織架構](系學會共用資訊/資工系學會組織架構.md)
 
-⚒️[組織分工](https://hackmd.io/@5ood/BkCxbv250)
+⚒️[組織分工](系學會共用資訊/組織分工.md)
 
-🔑[系窩鑰匙](https://hackmd.io/@5ood/ByUf3LKaR)
+🔑[系窩鑰匙](系學會共用資訊/系窩鑰匙.md)
 
 🔒[帳密表單](https://www.notion.so/7c0fec08f92b4722b76837d0412792d4?pvs=21)
 

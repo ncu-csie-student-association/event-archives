@@ -38,21 +38,21 @@
 
 ## 活動實際執行結果
 
-![image](./image/open_house_csie_0.jpg)
+![image](../image/open_house_csie_0.jpg)
 
-![image](./image/open_house_csie_1.jpg)
+![image](../image/open_house_csie_1.jpg)
 
-![image](./image/open_house_csie_2.jpg)
+![image](../image/open_house_csie_2.jpg)
 
-![image](./image/open_house_csie_3.jpg)
+![image](../image/open_house_csie_3.jpg)
 
-![image](./image/open_house_mindmap.jpg)
+![image](../image/open_house_mindmap.jpg)
 
-![image](./image/open_house_physic.jpg)
+![image](../image/open_house_physic.jpg)
 
-![image](./image/open_house_dop.jpg)
+![image](../image/open_house_dop.jpg)
 
-![image](./image/open_house_space.jpg)
+![image](../image/open_house_space.jpg)
 
 ## 傳承
 

@@ -42,7 +42,7 @@
 
 ### 下學期
 
-🏫[Open House Day](https://www.notion.so/Open-House-Day-aa5aa65847cb4b5cb9c1ddfe1ae57350?pvs=21)
+🏫[Open House Day](活動紀錄/Open_House.md)
 
 🧓[送舊](https://www.notion.so/bf2d08aa8a96437aaccfa4d2d807604c?pvs=21)
 

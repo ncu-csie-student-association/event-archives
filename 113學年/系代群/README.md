@@ -44,7 +44,9 @@
 
 🏫[Open House Day](活動紀錄/Open_House.md)
 
-🧓[送舊](https://www.notion.so/bf2d08aa8a96437aaccfa4d2d807604c?pvs=21)
+🏢[LINE 企業參訪](活動紀錄/企業參訪.md)
 
-🎓[撥穗典禮](https://www.notion.so/abbcf2b5c24a40f287f362f6fa74533f?pvs=21)
+🧓[送舊](活動紀錄/送舊.md)
+
+🎓[撥穗典禮](https://www.notion.so/113-1d090d4967d08023aca5d4fdd8026ba4?source=copy_link)
 
